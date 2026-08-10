@@ -1,0 +1,14 @@
+02-anime-data-analysis/
+│
+├── README.md
+├── notebooks/
+│   └── anime-analysis.ipynb
+│
+├── data/
+│   └── README.md
+│
+├── images/
+│   ├── banner.png
+│   └── visualizations/
+│
+└── requirements.txt
